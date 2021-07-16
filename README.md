@@ -1,5 +1,6 @@
 # Color-Guessing-Game
 A fun game to identify the correct color using the rgb color code.
+
 ![game1](https://user-images.githubusercontent.com/63976255/125963049-bd761a0e-f1ca-4d3a-b619-18b058535d67.png)
 ## Levels
 * You can choose either **EASY** level which has 3 colours or **HARD** level which has 6 colours.
