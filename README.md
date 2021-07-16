@@ -1,5 +1,5 @@
 # Color-Guessing-Game
-A fun game to identify the correct color using the rgb color code.<br>
+A fun game to identify the correct color using the rgb color code.<br><br>
 Site is Published at: https://rihanshu123.github.io/
 
 ![game1](https://user-images.githubusercontent.com/63976255/125963049-bd761a0e-f1ca-4d3a-b619-18b058535d67.png)
